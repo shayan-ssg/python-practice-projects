@@ -1,12 +1,17 @@
-# Student Grade Manager
+# Python Practice Projects
 
-This is one of my first Python projects.
+My Python learning journey.
 
-Features:
+## Projects
 
-* Add a student
-* Show all students
-* Find a student
-* Exit the program
+1. Dictionary Practice
+2. Student Grade Manager
+3. Notes Manager
 
-Built with Python as part of my learning journey.
+Currently learning:
+- Python Basics
+- Dictionaries
+- Loops
+- Functions
+- File Handling
+- Git & GitHub
