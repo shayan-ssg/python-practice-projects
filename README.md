@@ -19,4 +19,6 @@ My Python learning journey.
 * Git & GitHub
 * Problem Solving
 
-This repository contains my beginner Python projects as I work toward becoming an AI Engineer.
+This repository contains beginner Python projects that I built while learning programming and improving my Python skills.
+
+My goal is to continue learning software development, machine learning, and AI engineering.
